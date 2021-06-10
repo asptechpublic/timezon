@@ -2,8 +2,8 @@
 
 
 #variables
-$regionalsettingsURL = "https://raw.githubusercontent.com/averkinderen/Azure/master/101-ServerBuild/AURegion.xml"
-$RegionalSettings = "D:\AURegion.xml"
+$regionalsettingsURL = "https://raw.githubusercontent.com/asptechpublic/timezon/main/ukregion.xml"
+$RegionalSettings = "D:\ukRegion.xml"
 
 
 #downdload regional settings file
